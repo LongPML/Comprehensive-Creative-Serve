@@ -42,10 +42,10 @@ Theo báo cáo “The first World Vision Report”.
 
 ### Kế hoạch Marketing
 ```markdown
-[x] Truyền thông qua các kênh báo chí, TV.
-[x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
-[x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
-[x] Tổ chức các show, event cho sử dụng sản phẩm.
-[x] Sử dụng người PR sản phẩm, giới thiệu rộng rãi đến cộng đồng.
+- [x] Truyền thông qua các kênh báo chí, TV.
+- [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
+- [x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
+- [x] Tổ chức các show, event cho sử dụng sản phẩm.
+- [x] Sử dụng người PR sản phẩm, giới thiệu rộng rãi đến cộng đồng.
 
 ```
