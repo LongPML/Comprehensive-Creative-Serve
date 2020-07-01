@@ -9,18 +9,17 @@
 - Trong 2010 có 285.389 ( triệu người) khiếm thị,chiếm 4,24% tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [WHO](https://www.who.int/blindness/GLOBALDATAFINALforweb.pdf) cung cấp .
 - Trong 2019 có 2,2 ( tỷ người) khiếm thị,chiếm hơn 28 % tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [WHO](https://www.who.int/news-room/detail/08-10-2019-who-launches-first-world-report-on-vision) cung cấp.
 
-Theo báo cáo “The first World Vision Report”
+Theo báo cáo “The first World Vision Report”.
 
 
 ### Mục tiêu hướng đến- Tác động xã hội
-```markdown
+
 * Nhân rộng mô hình, phổ biến đến toàn thế giới.
 * Tạo sự tiện ích, thoải mái, đảm bảo an toàn cho người sử dụng.
 * Giảm thiểu rủi ro, tác động từ môi trường bên ngoài, giảm thiểu tai nạn.
 * Tạo ra những loại sản phẩm cải tiến hơn, mang công nghệ đến tiếp cận cho những người bình thường.
 * Độ bền cao, sử dụng trong thời gian dài.
 
-```
 
 
 ### Mô hình sản phẩm
@@ -41,10 +40,12 @@ Theo báo cáo “The first World Vision Report”
 - Hệ thống đèn flash chiếu sáng.
 - Có tích hợp cơ chế rung phản hồi.
 
-### Kế hoạch Marketing: Tổng chi phí 1 tỷ
-- [x] Truyền thông qua các kênh báo chí, TV: 200 triệu
-- [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi: 300 triệu
-- [x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội: 100 triệu
-- [x] Tổ chức các show, event cho sử dụng sản phẩm: 300 triệu
-- [x] Sử dụng người PR sản phẩm, giới thiệu rộng rãi đến cộng đồng: 100 triệu
+### Kế hoạch Marketing
+```markdown
+[x] Truyền thông qua các kênh báo chí, TV.
+[x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
+[x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
+[x] Tổ chức các show, event cho sử dụng sản phẩm.
+[x] Sử dụng người PR sản phẩm, giới thiệu rộng rãi đến cộng đồng.
 
+```
