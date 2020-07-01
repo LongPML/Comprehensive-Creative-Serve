@@ -41,7 +41,7 @@ Theo báo cáo “The first World Vision Report”.
 - Có tích hợp cơ chế rung phản hồi.
 
 ### Kế hoạch Marketing
-```markdown
+``` Sử dụng các phương tiện truyền thông như: 
 - [x] Truyền thông qua các kênh báo chí, TV.
 - [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
 - [x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
