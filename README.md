@@ -38,12 +38,12 @@ Theo báo cáo “The first World Vision Report”
 - Khả năng chống va đập mạnh phù hợp trong nhiều môi trường.
 - Có trong quá trình phát triển khả năng phát ra tần số sóng có thể phát triển bởi ra-đa, phòng trường hợp nguy cấp có thể phát ra tín hiệu SOS cho các phương tiện tìm kiếm dễ dàng hỗ trợ. Được tích hợp thời gian thực.
 - Khả năng nhận diện bằng sinh trắc học. Có khả năng kết nối tới điện thoại và Wifi.
-- Hệ thống đèn flash chiếu sáng. MÙ RỒI CẦN FLASH ĐỂ LÀM GÌ :) CÁI ĐÈN BÁO HIỆU LÀ ĐỦ ĐỂ NGƯỜI TA BIẾT RỒI
+- Hệ thống đèn flash chiếu sáng.
 - Có tích hợp cơ chế rung phản hồi.
 
 ### Kế hoạch Marketing: Tổng chi phí 1 tỷ
 - [x] Truyền thông qua các kênh báo chí, TV: 200 triệu
-- [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi :300 triệu
+- [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi: 300 triệu
 - [x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội: 100 triệu
 - [x] Tổ chức các show, event cho sử dụng sản phẩm: 300 triệu
 - [x] Sử dụng người PR sản phẩm, giới thiệu rộng rãi đến cộng đồng: 100 triệu
