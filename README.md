@@ -1,11 +1,11 @@
 ## GẬY & KÍNH CSS
 
 Đối tượng: Dành cho người khiếm thị và người già.
-1. **Nguyên Nhân**
+1. **_Nguyên Nhân_**
 - [x] Hiện nay, với tình trạng phát triển công nghệ, bên cạnh bẩm sinh, thị lực kém sau thời gian làm việc dài là vấn đề nghiêm trọng.
 - [x] Xã hội phát triển, gậy chỉ đường truyền thống không mang lại hiệu quả, tiện ích cho nhu cầu người dùng.
 - [x] Gậy chỉ đường thông minh đã phát triển song vẫn chưa được ứng dụng rộng rãi, kết hợp với mắt kính để tang sự hiệu quả và tiện ích cho người dung.
-2. **Thống kê số liệu**
+2. **_Thống kê số liệu_**
 - Trong 2010 có 285.389 ( triệu người) khiếm thị,chiếm 4,24% tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [WHO](https://www.who.int/blindness/GLOBALDATAFINALforweb.pdf) cung cấp .
 - Trong 2019 có 2,2 ( tỷ người) khiếm thị,chiếm hơn 28 % tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [WHO](https://www.who.int/news-room/detail/08-10-2019-who-launches-first-world-report-on-vision) cung cấp.
 
