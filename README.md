@@ -1,4 +1,4 @@
-## GẬY & KÍNH CSS
+# GẬY & KÍNH CSS
 Đối tượng: Dành cho người khiếm thị và người già.
 
 ![imag](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/106564225_1472124316282221_625774905214621804_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=BSYFuT4CZc8AX_s5SVo&_nc_ht=scontent.fsgn2-4.fna&oh=e6150af60e2f8c6e09251efa39cc506b&oe=5F2329B9)
@@ -16,7 +16,7 @@
 Theo báo cáo “The first World Vision Report”.
 
 
-### Mục tiêu hướng đến- Tác động xã hội
+## Mục tiêu hướng đến- Tác động xã hội
 
 * Nhân rộng mô hình, phổ biến đến toàn thế giới.
 * Tạo sự tiện ích, thoải mái, đảm bảo an toàn cho người sử dụng.
@@ -26,7 +26,7 @@ Theo báo cáo “The first World Vision Report”.
 
 
 
-### Mô hình sản phẩm
+## Mô hình sản phẩm
 
 ![imag](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/106630313_2880547548832810_5159823636258037312_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=3aL5FKbY3hgAX_oCgyP&_nc_ht=scontent.fsgn2-4.fna&oh=29e08d24c8b14e89e4a1faed4d38aae9&oe=5F238D64)
 
@@ -39,7 +39,7 @@ Theo báo cáo “The first World Vision Report”.
 - Còn về không gian, bộ điều khiển trung tâm sẽ phân tích thông tin thu thập được thì AI của mắt kính.
 
 
-### Một vài chức năng
+## Một vài chức năng
 - Khi người dùng gặp tai nạn, gậy có thể tính toán thời gian "nằm bất động", và dữ liệu hình ảnh được đưa về từ Mắt kính, đồng nghĩa khi gặp sự cố hộp điều khiển trung tâm có tích hợp sẵn 1 thẻ sim có thể tự động nhắn tin hoặc thực hiện các cuộc gọi đến cho người thân thông báo vị trí GPS để giúp nhanh chóng tìm kiếm.
 - Cây gậy có hệ thống đèn báo hiệu cho mọi người xung quanh, kết hợp với hệ thống âm thanh báo động.
 - Hệ thống pin sạc đang được tích hợp cục pin có thể hỗ trợ trong 1 khoảng thời gian tương đối (3-5 ngày).
@@ -50,7 +50,7 @@ Theo báo cáo “The first World Vision Report”.
 - Hệ thống đèn flash chiếu sáng.
 - Có tích hợp cơ chế rung phản hồi.
 
-### Kế hoạch Marketing
+## Kế hoạch Marketing
 - [x] Truyền thông qua các kênh báo chí, TV.
 - [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
 - [x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
