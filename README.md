@@ -45,6 +45,10 @@ Theo báo cáo “The first World Vision Report”.
 - Khi cần đi đến địa điểm nào đó, người dùng chỉ cần nói vị trí của địa điểm đó, thông qua một cái mic nhỏ trên mắt kính thì AI sẽ phân tích và tìm ra đường đi ngắn nhất đến địa điểm đó, rồi từ đó sẽ chỉ dẫn đường đi cho người dùng bằng một cái loa nhỏ trên mắt kính.
 - Cây gậy có hệ thống đèn báo hiệu cho mọi người xung quanh, kết hợp với hệ thống âm thanh báo động.
 - Hệ thống pin sạc đang được tích hợp cục pin có thể hỗ trợ trong 1 khoảng thời gian tương đối (3-5 ngày). Đang trong quá trình thăm dò lấy ý kiến từ thị trường + vốn đầu tư -> có thể triển khai lắp đặt hệ thống pin năng lượng từ mặt trời.
+- Ngoài ra cây gậy có khả năng chống nước, chống bụi đạt chuẩn IP68.
+- Khả năng chống va đập mạnh phù hợp trong nhiều môi trường.
+- Có tích hợp cơ chế rung phản hồi.
+
 
 
 ## Kế hoạch tài chính
