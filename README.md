@@ -1,6 +1,6 @@
 ## GẬY & KÍNH CSS
-
 Đối tượng: Dành cho người khiếm thị và người già.
+<img scr="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/101982907_1666659516830448_8072195225272975360_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=W6G6VWgud8IAX9hJcIQ&_nc_ht=scontent.fsgn2-3.fna&oh=c6553137035efa4efbd6887b7b0dee35&oe=5F211C5D">
 1. **_Nguyên Nhân_**
 - [x] Hiện nay, với tình trạng phát triển công nghệ, bên cạnh bẩm sinh, thị lực kém sau thời gian làm việc dài là vấn đề nghiêm trọng.
 - [x] Xã hội phát triển, gậy chỉ đường truyền thống không mang lại hiệu quả, tiện ích cho nhu cầu người dùng.
