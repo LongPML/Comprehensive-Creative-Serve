@@ -59,7 +59,11 @@ Dự án được hình thành và triển khai từ Quý 2/2019 đến Quý 2/2
 - Quý 2/2020 do ảnh hưởng của đại dịch COVID-19 nên tốc độ tăng trưởng giảm, số lượng sản phẩm bán ra đạt mức chấp nhận được.
 
 ![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/106477196_283052599569901_8472412294156245182_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=tTvW_xaHAWIAX-eFR07&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=aaf73e8e9265d852a24ddd2b43df5486&oe=5F2211D8)
+  
+  *Vốn đầu tư*
+
 ![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/106355689_603501163877360_1883971560431867669_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=whUC4f_rfKoAX_1RiRF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c8ce15b9e1a7e41745fe47a4a0b82d1b&oe=5F22D2D2)
+
 ![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/74274961_986203918470375_6783792067934319520_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=qsotkbTcFF4AX82xtD1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d139201fb539eade9b1b9c2ecc76d06b&oe=5F230200)
 
 ## Kế hoạch Marketing
