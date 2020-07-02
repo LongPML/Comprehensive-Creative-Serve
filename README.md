@@ -1,9 +1,9 @@
 ## GẬY & KÍNH CSS
 Đối tượng: Dành cho người khiếm thị và người già.
 
-![imag](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/101982907_1666659516830448_8072195225272975360_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=W6G6VWgud8IAX9hJcIQ&_nc_ht=scontent.fsgn2-3.fna&oh=c6553137035efa4efbd6887b7b0dee35&oe=5F211C5D)
-
 ![imag](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/106564225_1472124316282221_625774905214621804_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=BSYFuT4CZc8AX_s5SVo&_nc_ht=scontent.fsgn2-4.fna&oh=e6150af60e2f8c6e09251efa39cc506b&oe=5F2329B9)
+
+![imag](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/101982907_1666659516830448_8072195225272975360_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=W6G6VWgud8IAX9hJcIQ&_nc_ht=scontent.fsgn2-3.fna&oh=c6553137035efa4efbd6887b7b0dee35&oe=5F211C5D)
 
 1. **_Nguyên Nhân_**
 - [x] Hiện nay, với tình trạng phát triển công nghệ, bên cạnh bẩm sinh, thị lực kém sau thời gian làm việc dài là vấn đề nghiêm trọng.
@@ -27,8 +27,14 @@ Theo báo cáo “The first World Vision Report”.
 
 
 ### Mô hình sản phẩm
+
+![imag](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/106630313_2880547548832810_5159823636258037312_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=3aL5FKbY3hgAX_oCgyP&_nc_ht=scontent.fsgn2-4.fna&oh=29e08d24c8b14e89e4a1faed4d38aae9&oe=5F238D64)
+
 - Mắt kiếng dành Tích hợp AI chỉ đường, thị giác máy tính và giọng nói (hoạt động như một con AI google map nhưng có thêm thị giác máy tính để phân tích chướng ngại vật). Có 2 loại dành cho người bị mù và loại dành cho người thị lực kém ( tích hợp thêm các tính năng giải trí)
 - Gậy dò đường thông minh gồm phần chính: tay cầm, cảm biến, GPS và bộ điều khiển trung tâm.
+
+![imag](https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/106453677_2321611298144906_2440753306577507931_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=nFZWsoFSu5sAX952OG3&_nc_ht=scontent.fsgn2-5.fna&oh=1017f5e997323d3dd11184db0f42f492&oe=5F24AC08)
+
 - Cảm biến được đặt nhiều nơi trên cây gậy, như ở phần chân cho mục tiêu phát hiện các vật cản nhỏ, 3 cảm biến ở phần giữa để dò ra các chướng ngại vật lớn hơn.
 - Còn về không gian, bộ điều khiển trung tâm sẽ phân tích thông tin thu thập được thì AI của mắt kính.
 
