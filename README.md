@@ -74,7 +74,15 @@ Dự án được hình thành và triển khai từ Quý 2/2019 đến Quý 2/2
 
 ![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/74274961_986203918470375_6783792067934319520_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=qsotkbTcFF4AX82xtD1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d139201fb539eade9b1b9c2ecc76d06b&oe=5F230200)
 
+- Về vấn đề lỗ: Hiện tại công ty đang lỗ : 3,790,000,000 VND.
+- Dự tính sau khoảng 7-8 tháng nữa công ty hòa vốn, và tới quý 1/2021 công ty bắt đầu có lời.
+- Vốn 7 tỷ sẽ được đầu tư trong vòng 4 quý tiếp theo. 
+
+
 ## Kế hoạch Marketing
+
+![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/105699577_561273777887387_3478515100853781304_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=6PQFcCEfyjEAX-aGfWG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f16aa0de0f5b537c67c37e385b06938f&oe=5F22E205)
+
 - [x] Truyền thông qua các kênh báo chí, TV.
 - [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
 - [x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
