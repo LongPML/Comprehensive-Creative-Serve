@@ -41,14 +41,22 @@ Theo báo cáo “The first World Vision Report”.
 
 ## Một vài chức năng
 - Khi người dùng gặp tai nạn, gậy có thể tính toán thời gian "nằm bất động", và dữ liệu hình ảnh được đưa về từ Mắt kính, đồng nghĩa khi gặp sự cố hộp điều khiển trung tâm có tích hợp sẵn 1 thẻ sim có thể tự động nhắn tin hoặc thực hiện các cuộc gọi đến cho người thân thông báo vị trí GPS để giúp nhanh chóng tìm kiếm.
+- Khi đang lưu thông lưu thông trên đường, nếu người dùng gặp vật cản thì các cảm biến trên cây gậy và camera nhỏ trên mắt kính sẽ phân tích những vật cản ấy để rồi từ đó báo cho người dùng thông qua một cái loa nhỏ trên máy kiếng để có thể tránh né.
+- Khi cần đi đến địa điểm nào đó, người dùng chỉ cần nói vị trí của địa điểm đó, thông qua một cái mic nhỏ trên mắt kính thì AI sẽ phân tích và tìm ra đường đi ngắn nhất đến địa điểm đó, rồi từ đó sẽ chỉ dẫn đường đi cho người dùng bằng một cái loa nhỏ trên mắt kính.
 - Cây gậy có hệ thống đèn báo hiệu cho mọi người xung quanh, kết hợp với hệ thống âm thanh báo động.
-- Hệ thống pin sạc đang được tích hợp cục pin có thể hỗ trợ trong 1 khoảng thời gian tương đối (3-5 ngày).
-- Đang trong quá trình thăm dò lấy ý kiến từ thị trường + vốn đầu tư -> có thể triển khai lắp đặt hệ thống pin năng lượng từ mặt trời. Ngoài ra cây gậy có khả năng chống nước, chống bụi đạt chuẩn IP68.
-- Khả năng chống va đập mạnh phù hợp trong nhiều môi trường.
-- Có trong quá trình phát triển khả năng phát ra tần số sóng có thể phát triển bởi ra-đa, phòng trường hợp nguy cấp có thể phát ra tín hiệu SOS cho các phương tiện tìm kiếm dễ dàng hỗ trợ. Được tích hợp thời gian thực.
-- Khả năng nhận diện bằng sinh trắc học. Có khả năng kết nối tới điện thoại và Wifi.
-- Hệ thống đèn flash chiếu sáng.
-- Có tích hợp cơ chế rung phản hồi.
+- Hệ thống pin sạc đang được tích hợp cục pin có thể hỗ trợ trong 1 khoảng thời gian tương đối (3-5 ngày). Đang trong quá trình thăm dò lấy ý kiến từ thị trường + vốn đầu tư -> có thể triển khai lắp đặt hệ thống pin năng lượng từ mặt trời.
+
+
+## Kế hoạch tài chính
+Dự án được hình thành và triển khai từ Quý 2/2019 đến Quý 2/2020 (hiện nay).
+- Quý 2-3/2019 hình thành ý tưởng sản phẩm và bước đầu đưa vào sản xuất thử nghiệm.
+- Từ Quý 4/2019 sản phẩm bắt đầu sản xuất đại trà được tung ra thị trường.
+- Quý 1/2020 doanh thu đạt mức kỳ vọng.
+- Quý 2/2020 do ảnh hưởng của đại dịch COVID-19 nên tốc độ tăng trưởng giảm, số lượng sản phẩm bán ra đạt mức chấp nhận được.
+
+![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/106477196_283052599569901_8472412294156245182_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=tTvW_xaHAWIAX-eFR07&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=aaf73e8e9265d852a24ddd2b43df5486&oe=5F2211D8)
+![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/106355689_603501163877360_1883971560431867669_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=whUC4f_rfKoAX_1RiRF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c8ce15b9e1a7e41745fe47a4a0b82d1b&oe=5F22D2D2)
+![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/74274961_986203918470375_6783792067934319520_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=qsotkbTcFF4AX82xtD1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d139201fb539eade9b1b9c2ecc76d06b&oe=5F230200)
 
 ## Kế hoạch Marketing
 - [x] Truyền thông qua các kênh báo chí, TV.
