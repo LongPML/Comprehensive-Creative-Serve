@@ -31,10 +31,10 @@ Theo báo cáo “The first World Vision Report”.
 ![imag](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/106630313_2880547548832810_5159823636258037312_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=3aL5FKbY3hgAX_oCgyP&_nc_ht=scontent.fsgn2-4.fna&oh=29e08d24c8b14e89e4a1faed4d38aae9&oe=5F238D64)
 
 - Mắt kiếng dành Tích hợp AI chỉ đường, thị giác máy tính và giọng nói (hoạt động như một con AI google map nhưng có thêm thị giác máy tính để phân tích chướng ngại vật). Có 2 loại dành cho người bị mù và loại dành cho người thị lực kém ( tích hợp thêm các tính năng giải trí)
-- Gậy dò đường thông minh gồm phần chính: tay cầm, cảm biến, GPS và bộ điều khiển trung tâm.
 
 ![imag](https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/106453677_2321611298144906_2440753306577507931_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=nFZWsoFSu5sAX952OG3&_nc_ht=scontent.fsgn2-5.fna&oh=1017f5e997323d3dd11184db0f42f492&oe=5F24AC08)
 
+- Gậy dò đường thông minh gồm phần chính: tay cầm, cảm biến, GPS và bộ điều khiển trung tâm.
 - Cảm biến được đặt nhiều nơi trên cây gậy, như ở phần chân cho mục tiêu phát hiện các vật cản nhỏ, 3 cảm biến ở phần giữa để dò ra các chướng ngại vật lớn hơn.
 - Còn về không gian, bộ điều khiển trung tâm sẽ phân tích thông tin thu thập được thì AI của mắt kính.
 
