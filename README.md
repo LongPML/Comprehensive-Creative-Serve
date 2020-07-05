@@ -1,4 +1,4 @@
-# <span style="color:	#000080">**GẬY & KÍNH CSS**</span>
+# <span style="color:	#000080"><b>GẬY & KÍNH CSS</b></span>
 **Đối tượng**: Dành cho người *khiếm thị* và *người già*.
 
 
@@ -6,18 +6,18 @@
 
 ![imag](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/101982907_1666659516830448_8072195225272975360_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=W6G6VWgud8IAX9hJcIQ&_nc_ht=scontent.fsgn2-3.fna&oh=c6553137035efa4efbd6887b7b0dee35&oe=5F211C5D)
 
-1. <span style="color:#0000EE">**_Nguyên Nhân_**</span>
+1. <span style="color:#0000EE"><b><i>Nguyên Nhân</b></i></span>
 - Hiện nay, với tình trạng phát triển công nghệ, bên cạnh bẩm sinh, thị lực kém sau thời gian làm việc dài là vấn đề nghiêm trọng.
 - Xã hội phát triển, gậy chỉ đường truyền thống không mang lại hiệu quả, tiện ích cho nhu cầu người dùng.
 - Gậy chỉ đường thông minh đã phát triển song vẫn chưa được ứng dụng rộng rãi, kết hợp với mắt kính để tang sự hiệu quả và tiện ích cho người dung.
-2. <span style="color:#0000EE">**_Thống kê số liệu_**</span>
+2. <span style="color:#0000EE"><b><i>Thống kê số liệu</b></i></span>
 - Trong 2010 có 285.389 ( triệu người) khiếm thị,chiếm 4,24% tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [__*WHO*__](https://www.who.int/blindness/GLOBALDATAFINALforweb.pdf) cung cấp .
 - Trong 2019 có 2,2 ( tỷ người) khiếm thị,chiếm hơn 28 % tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [__*WHO*__](https://www.who.int/news-room/detail/08-10-2019-who-launches-first-world-report-on-vision) cung cấp.
 
 Theo báo cáo “The first World Vision Report”.
 
 
-## <span style="color:#800080">**Mục tiêu hướng đến - Tác động xã hội**</span>
+## <span style="color:#800080"><b>Mục tiêu hướng đến - Tác động xã hội</b></span>
 
 * Nhân rộng mô hình, phổ biến đến toàn thế giới.
 * Tạo sự tiện ích, thoải mái, đảm bảo an toàn cho người sử dụng.
@@ -27,7 +27,7 @@ Theo báo cáo “The first World Vision Report”.
 
 
 
-## <span style="color:#800080">**Mô hình sản phẩm**</span>
+## <span style="color:#800080"><b>Mô hình sản phẩm</b></span>
 
 ![imag](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/106630313_2880547548832810_5159823636258037312_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=3aL5FKbY3hgAX_oCgyP&_nc_ht=scontent.fsgn2-4.fna&oh=29e08d24c8b14e89e4a1faed4d38aae9&oe=5F238D64)
 
@@ -40,7 +40,7 @@ Theo báo cáo “The first World Vision Report”.
 - Còn về không gian, bộ điều khiển trung tâm sẽ phân tích thông tin thu thập được thì AI của mắt kính.
 
 
-## <span style="color:#800080">**Một vài chức năng**</span>
+## <span style="color:#800080"><b>Một vài chức năng</b></span>
 
 - Khi người dùng gặp tai nạn, gậy có thể tính toán thời gian "nằm bất động", và dữ liệu hình ảnh được đưa về từ Mắt kính, đồng nghĩa khi gặp sự cố hộp điều khiển trung tâm có tích hợp sẵn 1 thẻ sim có thể tự động nhắn tin hoặc thực hiện các cuộc gọi đến cho người thân thông báo vị trí GPS để giúp nhanh chóng tìm kiếm.
 - Khi đang lưu thông lưu thông trên đường, nếu người dùng gặp vật cản thì các cảm biến trên cây gậy và camera nhỏ trên mắt kính sẽ phân tích những vật cản ấy để rồi từ đó báo cho người dùng thông qua một cái loa nhỏ trên máy kiếng để có thể tránh né.
@@ -53,7 +53,7 @@ Theo báo cáo “The first World Vision Report”.
 
 
 
-## <span style="color:#800080">**Kế hoạch tài chính**</span>
+## <span style="color:#800080"><b>Kế hoạch tài chính</b></span>
 Dự án được hình thành và triển khai từ *Quý 2/2019* đến *Quý 2/2020* (hiện nay).
 - **Quý 2-3/2019:** hình thành ý tưởng sản phẩm và bước đầu đưa vào sản xuất thử nghiệm.
 - **Từ Quý 4/2019** sản phẩm bắt đầu sản xuất đại trà được tung ra thị trường.
@@ -81,7 +81,7 @@ Dự án được hình thành và triển khai từ *Quý 2/2019* đến *Quý 
 - Vốn 7 tỷ sẽ được đầu tư trong vòng 4 quý tiếp theo. 
 
 
-## <span style="color:#800080">**Kế hoạch Marketing**</span>
+## <span style="color:#800080"><b>Kế hoạch Marketing</b></span>
 
 ![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/105699577_561273777887387_3478515100853781304_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=6PQFcCEfyjEAX-aGfWG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f16aa0de0f5b537c67c37e385b06938f&oe=5F22E205)
 
