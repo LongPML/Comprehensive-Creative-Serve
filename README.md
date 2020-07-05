@@ -7,9 +7,9 @@
 ![imag](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/101982907_1666659516830448_8072195225272975360_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=W6G6VWgud8IAX9hJcIQ&_nc_ht=scontent.fsgn2-3.fna&oh=c6553137035efa4efbd6887b7b0dee35&oe=5F211C5D)
 
 1. **_Nguyên Nhân_**
-- [x] Hiện nay, với tình trạng phát triển công nghệ, bên cạnh bẩm sinh, thị lực kém sau thời gian làm việc dài là vấn đề nghiêm trọng.
-- [x] Xã hội phát triển, gậy chỉ đường truyền thống không mang lại hiệu quả, tiện ích cho nhu cầu người dùng.
-- [x] Gậy chỉ đường thông minh đã phát triển song vẫn chưa được ứng dụng rộng rãi, kết hợp với mắt kính để tang sự hiệu quả và tiện ích cho người dung.
+- Hiện nay, với tình trạng phát triển công nghệ, bên cạnh bẩm sinh, thị lực kém sau thời gian làm việc dài là vấn đề nghiêm trọng.
+- Xã hội phát triển, gậy chỉ đường truyền thống không mang lại hiệu quả, tiện ích cho nhu cầu người dùng.
+- Gậy chỉ đường thông minh đã phát triển song vẫn chưa được ứng dụng rộng rãi, kết hợp với mắt kính để tang sự hiệu quả và tiện ích cho người dung.
 2. **_Thống kê số liệu_**
 - Trong 2010 có 285.389 ( triệu người) khiếm thị,chiếm 4,24% tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [WHO](https://www.who.int/blindness/GLOBALDATAFINALforweb.pdf) cung cấp .
 - Trong 2019 có 2,2 ( tỷ người) khiếm thị,chiếm hơn 28 % tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [WHO](https://www.who.int/news-room/detail/08-10-2019-who-launches-first-world-report-on-vision) cung cấp.
@@ -84,10 +84,10 @@ Dự án được hình thành và triển khai từ Quý 2/2019 đến Quý 2/2
 
 ![imag](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/105699577_561273777887387_3478515100853781304_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=6PQFcCEfyjEAX-aGfWG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f16aa0de0f5b537c67c37e385b06938f&oe=5F22E205)
 
-- [x] Truyền thông qua các kênh báo chí, TV.
-- [x] In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
-- [x] Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
-- [x] Tổ chức các show, event cho sử dụng sản phẩm.
-- [x] Sử dụng người PR sản phẩm, giới thiệu rộng rãi đến cộng đồng.
+- Truyền thông qua các kênh báo chí, TV.
+- In poster, quảng cáo, hợp tác với các bệnh viện, trên xe bus, taxi.
+- Đăng tin trên các diễn đàn sức khỏe, mạng xã hội.
+- Tổ chức các show, event cho sử dụng sản phẩm.
+- Sử dụng người PR sản phẩm, giới thiệu rộng rãi đến cộng đồng.
 
 
