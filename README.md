@@ -1,4 +1,4 @@
-# <span style="color:#FF6600"><big><b>GẬY & KÍNH CSS</b></big></span>
+# <span style="color:#FF6600"><b>GẬY & KÍNH CSS</b></span>
 **Đối tượng**: Dành cho người *khiếm thị* và *người già*.
 
 
