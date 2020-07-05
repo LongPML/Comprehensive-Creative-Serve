@@ -1,4 +1,4 @@
-# <span style="color:#FF6600" style="margin-top: 30px"><b>GẬY & KÍNH CSS</b></span>
+# <span style="color:#FF6600"><big><b>GẬY & KÍNH CSS</b></big></span>
 **Đối tượng**: Dành cho người *khiếm thị* và *người già*.
 
 
@@ -6,11 +6,11 @@
 
 ![imag](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/101982907_1666659516830448_8072195225272975360_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=W6G6VWgud8IAX9hJcIQ&_nc_ht=scontent.fsgn2-3.fna&oh=c6553137035efa4efbd6887b7b0dee35&oe=5F211C5D)
 
-1. <span style="color:#0000EE"><b><i>Nguyên Nhân</b></i></span>
+1. <span style="color:#0000EE"><b><i>Nguyên Nhân</i></b></span>
 - Hiện nay, với tình trạng phát triển công nghệ, bên cạnh bẩm sinh, thị lực kém sau thời gian làm việc dài là vấn đề nghiêm trọng.
 - Xã hội phát triển, gậy chỉ đường truyền thống không mang lại hiệu quả, tiện ích cho nhu cầu người dùng.
 - Gậy chỉ đường thông minh đã phát triển song vẫn chưa được ứng dụng rộng rãi, kết hợp với mắt kính để tang sự hiệu quả và tiện ích cho người dung.
-2. <span style="color:#0000EE"><b><i>Thống kê số liệu</b></i></span>
+2. <span style="color:#0000EE"><b><i>Thống kê số liệu</i></b></span>
 - Trong 2010 có 285.389 ( triệu người) khiếm thị,chiếm 4,24% tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [__*WHO*__](https://www.who.int/blindness/GLOBALDATAFINALforweb.pdf) cung cấp .
 - Trong 2019 có 2,2 ( tỷ người) khiếm thị,chiếm hơn 28 % tổng dân số thế giới. Số liệu theo tổ chức y tế thế giới [__*WHO*__](https://www.who.int/news-room/detail/08-10-2019-who-launches-first-world-report-on-vision) cung cấp.
 
