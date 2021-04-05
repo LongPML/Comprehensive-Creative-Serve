@@ -1,6 +1,7 @@
 # <span style="color:#FF6600"><b>GẬY & KÍNH CSS</b></span>
 **Đối tượng**: Dành cho người *khiếm thị* và *người già*.
 
+![imag](https://raw.githubusercontent.com/LongPML/Comprehensive-Creative-Serve/master/comprehensive-creative-serve.png)
 
 ![imag](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/106564225_1472124316282221_625774905214621804_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=BSYFuT4CZc8AX_s5SVo&_nc_ht=scontent.fsgn2-4.fna&oh=e6150af60e2f8c6e09251efa39cc506b&oe=5F2329B9)
 
